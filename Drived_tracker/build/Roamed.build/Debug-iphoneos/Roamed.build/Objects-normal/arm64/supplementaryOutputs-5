@@ -1,0 +1,23 @@
+{
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/LevelService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.swiftdeps"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/LocationPermissionManager.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.swiftdeps"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/RoamedWidget/RoamedWidget.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.swiftdeps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/DriverDetectionService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.swiftdeps"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/GamificationEngine.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.swiftdeps"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/HealthKitService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.dia",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.swiftdeps"
+  }
+}

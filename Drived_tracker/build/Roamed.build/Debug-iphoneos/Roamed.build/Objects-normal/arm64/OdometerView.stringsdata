@@ -1,0 +1,16 @@
+{
+  "source": "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Dashboard/OdometerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 36
+        }
+      }
+    ]
+  },
+  "version": 1
+}

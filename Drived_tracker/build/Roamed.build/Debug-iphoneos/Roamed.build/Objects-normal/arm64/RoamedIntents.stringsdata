@@ -1,0 +1,120 @@
+{
+  "source": "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/RoamedIntents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Check Driving Distance",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Driving Level",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Driving Streak",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Driving Distance",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tells you how far you have driven in total.",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "You've driven %@ in total. You are currently a %@.",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "You haven't tracked any drives in Roamed yet.",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Driving Level",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your current level is %@. %@",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "You haven't started your Roamed journey yet.",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Driving Streak",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "You don't have an active driving streak right now. Go for a drive to start one!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your current driving streak is %lld days. Keep it up!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "You don't have a driving streak yet.",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 99
+        }
+      }
+    ]
+  },
+  "version": 1
+}

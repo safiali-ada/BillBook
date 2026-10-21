@@ -1,0 +1,46 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7710622a88de847aad8f19bf9652e981ed5322eca013326663e0d02ada5f43be"
+    },
+    {
+      "guid" : "7710622a88de847aad8f19bf9652e98177e3839f8898213db0f81d434c06f8cf"
+    },
+    {
+      "guid" : "7710622a88de847aad8f19bf9652e981ed5322eca013326663e0d02ada5f43be"
+    }
+  ],
+  "containerPath" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

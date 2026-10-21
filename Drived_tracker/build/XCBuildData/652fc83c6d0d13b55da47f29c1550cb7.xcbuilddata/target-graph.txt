@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Roamed' in project 'Roamed'
+➜ Explicit dependency on target 'RoamedWidgetExtension' in project 'Roamed'
+Target 'RoamedWidgetExtension' in project 'Roamed' (no dependencies)

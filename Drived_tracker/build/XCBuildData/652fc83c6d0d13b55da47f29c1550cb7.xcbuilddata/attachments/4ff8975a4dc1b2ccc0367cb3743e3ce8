@@ -1,0 +1,309 @@
+{
+  "" : {
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Roamed-primary.dia",
+    "emit-module-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Roamed-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Roamed-primary-emit-module.dia",
+    "pch" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Roamed-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Roamed-primary.swiftdeps"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/Badge.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Badge~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/BadgeType.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeType~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/Drive.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Drive~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/DriveMood.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveMood~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/Level.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/Level~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Models/UserProfile.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/UserProfile~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/RoamedApp.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedApp~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/BadgeService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/DriveDetectionService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveDetectionService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/DriverDetectionService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriverDetectionService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/GamificationEngine.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GamificationEngine~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/HealthKitService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HealthKitService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/LevelService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/LocationPermissionManager.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LocationPermissionManager~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/RoamedIntents.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedIntents~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Services/StreakService.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StreakService~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Badges/BadgeCollectionView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeCollectionView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Badges/BadgeDetailView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/BadgeDetailView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/ContentView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Dashboard/DashboardView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Dashboard/LevelProgressView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/LevelProgressView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Dashboard/OdometerView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OdometerView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Drive/DriveCardView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/DriveCardView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Drive/PostDriveView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/PostDriveView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Onboarding/OnboardingView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Stats/HeatmapView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/HeatmapView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Stats/StatsView.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/StatsView~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/RoamedWidget/RoamedWidget.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/RoamedWidget~partial.swiftmodule"
+  },
+  "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/build/Roamed.build/Debug-iphoneos/Roamed.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

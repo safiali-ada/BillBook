@@ -1,0 +1,59 @@
+apiVersion: ssu/v1
+nlu:
+  shortcuts:
+    bundleIdentifier: com.roamed.app
+    intents:
+    - metadata:
+        name: HowFarRoamedIntent_0
+        title: Check Driving Distance
+      corpuses:
+        training:
+        - locale: en
+          utterances:
+          - '{${+prefix} }How far have I ${+applicationName}?'
+          - '{${+prefix} }What is my driving distance in ${+applicationName}?'
+          - '{${+prefix} }Check my distance on ${+applicationName}'
+    - metadata:
+        name: DrivingLevelIntent_1
+        title: Check Driving Level
+      corpuses:
+        training:
+        - locale: en
+          utterances:
+          - '{${+prefix} }What is my ${+applicationName} level?'
+          - '{${+prefix} }Check my driving level in ${+applicationName}'
+    - metadata:
+        name: StreakIntent_2
+        title: Check Driving Streak
+      corpuses:
+        training:
+        - locale: en
+          utterances:
+          - '{${+prefix} }What is my ${+applicationName} streak?'
+          - '{${+prefix} }Check my driving streak in ${+applicationName}'
+    - metadata:
+        name: +negative
+      corpuses:
+        training:
+        - locale: en
+          utterances:
+          - '{${+prefix} }${+standardAppShortcutNegatives}'
+variables:
+- name: +applicationName
+  type: ssu/expansion
+  definitions:
+  - locale: en
+    synomyms:
+    - Roamed
+- name: +prefix
+  type: ssu/expansion
+  definitions:
+  - locale: en
+    synomyms:
+      $ref: ssu://Resources/prefix/en.yaml
+- name: +standardAppShortcutNegatives
+  type: ssu/expansion
+  definitions:
+  - locale: en
+    synomyms:
+      $ref: ssu://Resources/standardAppShortcutNegatives/en.yaml

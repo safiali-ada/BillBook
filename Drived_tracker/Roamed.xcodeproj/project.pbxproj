@@ -1,0 +1,667 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 70;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B0B97D9707F73A48F83BEFA /* Views/ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0769E0242394151D18075712 /* Views/ContentView.swift */; };
+		18AF6266548E6740A719666B /* Services/GamificationEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0589C584E3FB5A9D3E4F6178 /* Services/GamificationEngine.swift */; };
+		1DB332790E6BE235583E7F58 /* Services/BadgeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF8492127FF982EB42E91BB /* Services/BadgeService.swift */; };
+		37431AB48C4911178B485D2F /* RoamedApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82511C9A84A087175DA93BE4 /* RoamedApp.swift */; };
+		38CA5A6B73602EF8026520D5 /* Views/Dashboard/DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFE61955D07DACACE50EF3A /* Views/Dashboard/DashboardView.swift */; };
+		508C30ADB05F610C5FC00AAD /* Views/Stats/StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FD4767522815FEB45C9590 /* Views/Stats/StatsView.swift */; };
+		5A19681037F5CA88639B0899 /* Services/DriveDetectionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026591D5485CB10709D7D569 /* Services/DriveDetectionService.swift */; };
+		630079499D908838C6A12464 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB8953AE57039F8C975994A /* Assets.xcassets */; };
+		6A1862AD8F2D3B87B3289631 /* Views/Badges/BadgeCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAB87F1BCB51B06821DE89E /* Views/Badges/BadgeCollectionView.swift */; };
+		79E0425648DCE9ACDCED6C89 /* Views/Stats/HeatmapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05C46029D7CABA028BB6AA0 /* Views/Stats/HeatmapView.swift */; };
+		7F3C4F2CC6E41D5ABB918A0C /* Views/Settings/SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF5E8CB8E1957E12446C670 /* Views/Settings/SettingsView.swift */; };
+		831E380EAD747085DF74C6C9 /* Services/LocationPermissionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE884F421913A2CFA2377C9 /* Services/LocationPermissionManager.swift */; };
+		8BBD90C126CF6BB8609A7217 /* Views/Drive/PostDriveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28B4800CE665A3DE3DE0BE8 /* Views/Drive/PostDriveView.swift */; };
+		92DD27C05E8E9125B43EA52C /* Models/Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = 974344BC965E596924D92342 /* Models/Level.swift */; };
+		961C0F2635865BC21F33AE04 /* Services/LevelService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6016BCA011ABBB76F071FB78 /* Services/LevelService.swift */; };
+		9AFB233FC458E599458F6694 /* Models/Drive.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1219FF2D7940DAAB7979AE1 /* Models/Drive.swift */; };
+		9BCE2A34DA6A44B0E36AB9DC /* Views/Onboarding/OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB494510D17CB8CF92FA5A71 /* Views/Onboarding/OnboardingView.swift */; };
+		A268947F3ECD665A71AED029 /* Services/DriverDetectionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D74ACEC087A5F9D131C43E2F /* Services/DriverDetectionService.swift */; };
+		A27946305A067E549BFEB81F /* Models/DriveMood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF4F1863D8F29A0369470A6 /* Models/DriveMood.swift */; };
+		AB98844E1DABAC123CDA1BCF /* Models/BadgeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5897CDF54B25E15F7696633 /* Models/BadgeType.swift */; };
+		B14FD5A006C9B3665E065CDE /* Views/Dashboard/LevelProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE5F504A5A35406C39C3A40 /* Views/Dashboard/LevelProgressView.swift */; };
+		B35F38F4ECD02885A35C4414 /* Models/Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D82C2ADC37099CFAA76E18A /* Models/Badge.swift */; };
+		C0F5EA90690BBFF77BCB8E38 /* Views/Dashboard/OdometerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F0286CD35FED536120BA48 /* Views/Dashboard/OdometerView.swift */; };
+		CC4936EE11A1A439166AAF75 /* Models/UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3BD0D854B9C9E888522A3C /* Models/UserProfile.swift */; };
+		D312D520E6A463244D160275 /* Services/HealthKitService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80782AFCADF2EAEFAF34DE75 /* Services/HealthKitService.swift */; };
+		DA1AED7AD1198B5EE32F36B7 /* Views/Drive/DriveCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD397BBCA5A56E5634084F1 /* Views/Drive/DriveCardView.swift */; };
+		DCC06A6F03E1EAC9DF1A178F /* Views/Badges/BadgeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D3AF30E297BB6790ABFD5A /* Views/Badges/BadgeDetailView.swift */; };
+		E1571EC330537ED900EFCCFF /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1571EC230537ED900EFCCFF /* WidgetKit.framework */; };
+		E1571EC530537ED900EFCCFF /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1571EC430537ED900EFCCFF /* SwiftUI.framework */; };
+		E1571ED230537EDA00EFCCFF /* RoamedWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = E1571EC030537ED900EFCCFF /* RoamedWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E1571EDC3053801F00EFCCFF /* Models/DriveMood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF4F1863D8F29A0369470A6 /* Models/DriveMood.swift */; };
+		E1571EDD3053801F00EFCCFF /* Models/Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = 974344BC965E596924D92342 /* Models/Level.swift */; };
+		E1571EDE3053801F00EFCCFF /* Models/UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3BD0D854B9C9E888522A3C /* Models/UserProfile.swift */; };
+		E1571EDF3053801F00EFCCFF /* Models/BadgeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5897CDF54B25E15F7696633 /* Models/BadgeType.swift */; };
+		E1571EE03053801F00EFCCFF /* Models/Drive.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1219FF2D7940DAAB7979AE1 /* Models/Drive.swift */; };
+		E1571EE13053801F00EFCCFF /* Models/Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D82C2ADC37099CFAA76E18A /* Models/Badge.swift */; };
+		E4F5BB17A6020CFB552E830D /* Services/StreakService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193D9BB81EC6573FC0FEE563 /* Services/StreakService.swift */; };
+		F58CB3EDCF00DBFD5A6CF130 /* Services/RoamedIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A7503A8774B59F0DCEF27E /* Services/RoamedIntents.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E1571ED030537EDA00EFCCFF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E1571EBF30537ED900EFCCFF;
+			remoteInfo = RoamedWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E1571ED330537EDA00EFCCFF /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				E1571ED230537EDA00EFCCFF /* RoamedWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		026591D5485CB10709D7D569 /* Services/DriveDetectionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/DriveDetectionService.swift; sourceTree = "<group>"; };
+		04D3AF30E297BB6790ABFD5A /* Views/Badges/BadgeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Badges/BadgeDetailView.swift; sourceTree = "<group>"; };
+		0589C584E3FB5A9D3E4F6178 /* Services/GamificationEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/GamificationEngine.swift; sourceTree = "<group>"; };
+		0769E0242394151D18075712 /* Views/ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/ContentView.swift; sourceTree = "<group>"; };
+		14A7503A8774B59F0DCEF27E /* Services/RoamedIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/RoamedIntents.swift; sourceTree = "<group>"; };
+		193D9BB81EC6573FC0FEE563 /* Services/StreakService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/StreakService.swift; sourceTree = "<group>"; };
+		1EF8492127FF982EB42E91BB /* Services/BadgeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/BadgeService.swift; sourceTree = "<group>"; };
+		2D82C2ADC37099CFAA76E18A /* Models/Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/Badge.swift; sourceTree = "<group>"; };
+		3FD397BBCA5A56E5634084F1 /* Views/Drive/DriveCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Drive/DriveCardView.swift; sourceTree = "<group>"; };
+		4DF5E8CB8E1957E12446C670 /* Views/Settings/SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Settings/SettingsView.swift; sourceTree = "<group>"; };
+		4FF4F1863D8F29A0369470A6 /* Models/DriveMood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/DriveMood.swift; sourceTree = "<group>"; };
+		6016BCA011ABBB76F071FB78 /* Services/LevelService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/LevelService.swift; sourceTree = "<group>"; };
+		71CCD365E3A654DA84DBA191 /* Roamed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Roamed.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AE5F504A5A35406C39C3A40 /* Views/Dashboard/LevelProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Dashboard/LevelProgressView.swift; sourceTree = "<group>"; };
+		80782AFCADF2EAEFAF34DE75 /* Services/HealthKitService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/HealthKitService.swift; sourceTree = "<group>"; };
+		82511C9A84A087175DA93BE4 /* RoamedApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoamedApp.swift; sourceTree = "<group>"; };
+		8AE884F421913A2CFA2377C9 /* Services/LocationPermissionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/LocationPermissionManager.swift; sourceTree = "<group>"; };
+		974344BC965E596924D92342 /* Models/Level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/Level.swift; sourceTree = "<group>"; };
+		9E3BD0D854B9C9E888522A3C /* Models/UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/UserProfile.swift; sourceTree = "<group>"; };
+		AAAB87F1BCB51B06821DE89E /* Views/Badges/BadgeCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Badges/BadgeCollectionView.swift; sourceTree = "<group>"; };
+		B1219FF2D7940DAAB7979AE1 /* Models/Drive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/Drive.swift; sourceTree = "<group>"; };
+		BB494510D17CB8CF92FA5A71 /* Views/Onboarding/OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Onboarding/OnboardingView.swift; sourceTree = "<group>"; };
+		BEFE61955D07DACACE50EF3A /* Views/Dashboard/DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Dashboard/DashboardView.swift; sourceTree = "<group>"; };
+		C05C46029D7CABA028BB6AA0 /* Views/Stats/HeatmapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Stats/HeatmapView.swift; sourceTree = "<group>"; };
+		C6F0286CD35FED536120BA48 /* Views/Dashboard/OdometerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Dashboard/OdometerView.swift; sourceTree = "<group>"; };
+		C8FD4767522815FEB45C9590 /* Views/Stats/StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Stats/StatsView.swift; sourceTree = "<group>"; };
+		D74ACEC087A5F9D131C43E2F /* Services/DriverDetectionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services/DriverDetectionService.swift; sourceTree = "<group>"; };
+		E1571EC030537ED900EFCCFF /* RoamedWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = RoamedWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1571EC230537ED900EFCCFF /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		E1571EC430537ED900EFCCFF /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		E1571EE23053807000EFCCFF /* Roamed.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Roamed.entitlements; sourceTree = "<group>"; };
+		E1571EE3305380A300EFCCFF /* RoamedWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RoamedWidgetExtension.entitlements; sourceTree = "<group>"; };
+		E1571EE43053869300EFCCFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F28B4800CE665A3DE3DE0BE8 /* Views/Drive/PostDriveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views/Drive/PostDriveView.swift; sourceTree = "<group>"; };
+		F5897CDF54B25E15F7696633 /* Models/BadgeType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models/BadgeType.swift; sourceTree = "<group>"; };
+		FCB8953AE57039F8C975994A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		E1571ED630537EDA00EFCCFF /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = E1571EBF30537ED900EFCCFF /* RoamedWidgetExtension */;
+		};
+		E1571EDB30537FA500EFCCFF /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				RoamedWidget.swift,
+			);
+			target = 42AEFBAE01D2DFD981F7DA7D /* Roamed */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E1571EC630537ED900EFCCFF /* RoamedWidget */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (E1571EDB30537FA500EFCCFF /* PBXFileSystemSynchronizedBuildFileExceptionSet */, E1571ED630537EDA00EFCCFF /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = RoamedWidget; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6BC9136C2E1B992EF374A2EA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1571EBD30537ED900EFCCFF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1571EC530537ED900EFCCFF /* SwiftUI.framework in Frameworks */,
+				E1571EC330537ED900EFCCFF /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1BADDC1D73C1A20F347483E1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				71CCD365E3A654DA84DBA191 /* Roamed.app */,
+				E1571EC030537ED900EFCCFF /* RoamedWidgetExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8D3FC6DB5D0827F168A73277 = {
+			isa = PBXGroup;
+			children = (
+				E1571EE3305380A300EFCCFF /* RoamedWidgetExtension.entitlements */,
+				E4F9B9B828BD894C7208C99D /* Roamed */,
+				E1571EC630537ED900EFCCFF /* RoamedWidget */,
+				E1571EC130537ED900EFCCFF /* Frameworks */,
+				1BADDC1D73C1A20F347483E1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E1571EC130537ED900EFCCFF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E1571EC230537ED900EFCCFF /* WidgetKit.framework */,
+				E1571EC430537ED900EFCCFF /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E4F9B9B828BD894C7208C99D /* Roamed */ = {
+			isa = PBXGroup;
+			children = (
+				E1571EE43053869300EFCCFF /* Info.plist */,
+				E1571EE23053807000EFCCFF /* Roamed.entitlements */,
+				2D82C2ADC37099CFAA76E18A /* Models/Badge.swift */,
+				F5897CDF54B25E15F7696633 /* Models/BadgeType.swift */,
+				B1219FF2D7940DAAB7979AE1 /* Models/Drive.swift */,
+				4FF4F1863D8F29A0369470A6 /* Models/DriveMood.swift */,
+				974344BC965E596924D92342 /* Models/Level.swift */,
+				9E3BD0D854B9C9E888522A3C /* Models/UserProfile.swift */,
+				82511C9A84A087175DA93BE4 /* RoamedApp.swift */,
+				1EF8492127FF982EB42E91BB /* Services/BadgeService.swift */,
+				026591D5485CB10709D7D569 /* Services/DriveDetectionService.swift */,
+				D74ACEC087A5F9D131C43E2F /* Services/DriverDetectionService.swift */,
+				0589C584E3FB5A9D3E4F6178 /* Services/GamificationEngine.swift */,
+				80782AFCADF2EAEFAF34DE75 /* Services/HealthKitService.swift */,
+				6016BCA011ABBB76F071FB78 /* Services/LevelService.swift */,
+				8AE884F421913A2CFA2377C9 /* Services/LocationPermissionManager.swift */,
+				14A7503A8774B59F0DCEF27E /* Services/RoamedIntents.swift */,
+				193D9BB81EC6573FC0FEE563 /* Services/StreakService.swift */,
+				AAAB87F1BCB51B06821DE89E /* Views/Badges/BadgeCollectionView.swift */,
+				04D3AF30E297BB6790ABFD5A /* Views/Badges/BadgeDetailView.swift */,
+				0769E0242394151D18075712 /* Views/ContentView.swift */,
+				BEFE61955D07DACACE50EF3A /* Views/Dashboard/DashboardView.swift */,
+				7AE5F504A5A35406C39C3A40 /* Views/Dashboard/LevelProgressView.swift */,
+				C6F0286CD35FED536120BA48 /* Views/Dashboard/OdometerView.swift */,
+				3FD397BBCA5A56E5634084F1 /* Views/Drive/DriveCardView.swift */,
+				F28B4800CE665A3DE3DE0BE8 /* Views/Drive/PostDriveView.swift */,
+				BB494510D17CB8CF92FA5A71 /* Views/Onboarding/OnboardingView.swift */,
+				4DF5E8CB8E1957E12446C670 /* Views/Settings/SettingsView.swift */,
+				C05C46029D7CABA028BB6AA0 /* Views/Stats/HeatmapView.swift */,
+				C8FD4767522815FEB45C9590 /* Views/Stats/StatsView.swift */,
+				FCB8953AE57039F8C975994A /* Assets.xcassets */,
+			);
+			path = Roamed;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		42AEFBAE01D2DFD981F7DA7D /* Roamed */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C4555FF564CDA3863A0A5B59 /* Build configuration list for PBXNativeTarget "Roamed" */;
+			buildPhases = (
+				F680599402C0D80E245DE801 /* Sources */,
+				781C774F390DF12CD292A30B /* Resources */,
+				6BC9136C2E1B992EF374A2EA /* Frameworks */,
+				E1571ED330537EDA00EFCCFF /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E1571ED130537EDA00EFCCFF /* PBXTargetDependency */,
+			);
+			name = Roamed;
+			productName = Roamed;
+			productReference = 71CCD365E3A654DA84DBA191 /* Roamed.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E1571EBF30537ED900EFCCFF /* RoamedWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1571ED730537EDA00EFCCFF /* Build configuration list for PBXNativeTarget "RoamedWidgetExtension" */;
+			buildPhases = (
+				E1571EBC30537ED900EFCCFF /* Sources */,
+				E1571EBD30537ED900EFCCFF /* Frameworks */,
+				E1571EBE30537ED900EFCCFF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E1571EC630537ED900EFCCFF /* RoamedWidget */,
+			);
+			name = RoamedWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = RoamedWidgetExtension;
+			productReference = E1571EC030537ED900EFCCFF /* RoamedWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46F86FAA6BBF9AC94A7E4595 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 2660;
+				TargetAttributes = {
+					E1571EBF30537ED900EFCCFF = {
+						CreatedOnToolsVersion = 26.6;
+					};
+				};
+			};
+			buildConfigurationList = 229AFD403D5F98A92FDE08FA /* Build configuration list for PBXProject "Roamed" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8D3FC6DB5D0827F168A73277;
+			productRefGroup = 1BADDC1D73C1A20F347483E1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				42AEFBAE01D2DFD981F7DA7D /* Roamed */,
+				E1571EBF30537ED900EFCCFF /* RoamedWidgetExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		781C774F390DF12CD292A30B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				630079499D908838C6A12464 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1571EBE30537ED900EFCCFF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E1571EBC30537ED900EFCCFF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1571EDC3053801F00EFCCFF /* Models/DriveMood.swift in Sources */,
+				E1571EDD3053801F00EFCCFF /* Models/Level.swift in Sources */,
+				E1571EDE3053801F00EFCCFF /* Models/UserProfile.swift in Sources */,
+				E1571EDF3053801F00EFCCFF /* Models/BadgeType.swift in Sources */,
+				E1571EE03053801F00EFCCFF /* Models/Drive.swift in Sources */,
+				E1571EE13053801F00EFCCFF /* Models/Badge.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F680599402C0D80E245DE801 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B35F38F4ECD02885A35C4414 /* Models/Badge.swift in Sources */,
+				AB98844E1DABAC123CDA1BCF /* Models/BadgeType.swift in Sources */,
+				9AFB233FC458E599458F6694 /* Models/Drive.swift in Sources */,
+				A27946305A067E549BFEB81F /* Models/DriveMood.swift in Sources */,
+				92DD27C05E8E9125B43EA52C /* Models/Level.swift in Sources */,
+				CC4936EE11A1A439166AAF75 /* Models/UserProfile.swift in Sources */,
+				37431AB48C4911178B485D2F /* RoamedApp.swift in Sources */,
+				1DB332790E6BE235583E7F58 /* Services/BadgeService.swift in Sources */,
+				5A19681037F5CA88639B0899 /* Services/DriveDetectionService.swift in Sources */,
+				A268947F3ECD665A71AED029 /* Services/DriverDetectionService.swift in Sources */,
+				18AF6266548E6740A719666B /* Services/GamificationEngine.swift in Sources */,
+				D312D520E6A463244D160275 /* Services/HealthKitService.swift in Sources */,
+				961C0F2635865BC21F33AE04 /* Services/LevelService.swift in Sources */,
+				831E380EAD747085DF74C6C9 /* Services/LocationPermissionManager.swift in Sources */,
+				F58CB3EDCF00DBFD5A6CF130 /* Services/RoamedIntents.swift in Sources */,
+				E4F5BB17A6020CFB552E830D /* Services/StreakService.swift in Sources */,
+				6A1862AD8F2D3B87B3289631 /* Views/Badges/BadgeCollectionView.swift in Sources */,
+				DCC06A6F03E1EAC9DF1A178F /* Views/Badges/BadgeDetailView.swift in Sources */,
+				0B0B97D9707F73A48F83BEFA /* Views/ContentView.swift in Sources */,
+				38CA5A6B73602EF8026520D5 /* Views/Dashboard/DashboardView.swift in Sources */,
+				B14FD5A006C9B3665E065CDE /* Views/Dashboard/LevelProgressView.swift in Sources */,
+				C0F5EA90690BBFF77BCB8E38 /* Views/Dashboard/OdometerView.swift in Sources */,
+				DA1AED7AD1198B5EE32F36B7 /* Views/Drive/DriveCardView.swift in Sources */,
+				8BBD90C126CF6BB8609A7217 /* Views/Drive/PostDriveView.swift in Sources */,
+				9BCE2A34DA6A44B0E36AB9DC /* Views/Onboarding/OnboardingView.swift in Sources */,
+				7F3C4F2CC6E41D5ABB918A0C /* Views/Settings/SettingsView.swift in Sources */,
+				79E0425648DCE9ACDCED6C89 /* Views/Stats/HeatmapView.swift in Sources */,
+				508C30ADB05F610C5FC00AAD /* Views/Stats/StatsView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E1571ED130537EDA00EFCCFF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E1571EBF30537ED900EFCCFF /* RoamedWidgetExtension */;
+			targetProxy = E1571ED030537EDA00EFCCFF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		34B30D8D79C98DB375308719 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Roamed/Roamed.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J8G5UT5LRV;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Roamed/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Roamed;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Roamed can log relaxing drives as mindful minutes in Apple Health.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Roamed can log relaxing drives as mindful minutes in Apple Health.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Roamed tracks your driving distance in the background to log your lifetime kilometers.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Roamed needs location access to measure the distance of your drives.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Roamed uses motion data to automatically detect when you start and stop driving.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roamed.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4DEB3661A38156DF250681D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Roamed/Roamed.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J8G5UT5LRV;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Roamed/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Roamed;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Roamed can log relaxing drives as mindful minutes in Apple Health.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Roamed can log relaxing drives as mindful minutes in Apple Health.";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Roamed tracks your driving distance in the background to log your lifetime kilometers.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Roamed needs location access to measure the distance of your drives.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Roamed uses motion data to automatically detect when you start and stop driving.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roamed.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B10504F0F8A7477709D957A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C3AE5995881CE35FD5CAB2D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E1571ED430537EDA00EFCCFF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_ENTITLEMENTS = RoamedWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J8G5UT5LRV;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RoamedWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RoamedWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roamed.app.RoamedWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E1571ED530537EDA00EFCCFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_ENTITLEMENTS = RoamedWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J8G5UT5LRV;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RoamedWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RoamedWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.roamed.app.RoamedWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		229AFD403D5F98A92FDE08FA /* Build configuration list for PBXProject "Roamed" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B10504F0F8A7477709D957A8 /* Debug */,
+				C3AE5995881CE35FD5CAB2D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C4555FF564CDA3863A0A5B59 /* Build configuration list for PBXNativeTarget "Roamed" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DEB3661A38156DF250681D7 /* Debug */,
+				34B30D8D79C98DB375308719 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E1571ED730537EDA00EFCCFF /* Build configuration list for PBXNativeTarget "RoamedWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1571ED430537EDA00EFCCFF /* Debug */,
+				E1571ED530537EDA00EFCCFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+}

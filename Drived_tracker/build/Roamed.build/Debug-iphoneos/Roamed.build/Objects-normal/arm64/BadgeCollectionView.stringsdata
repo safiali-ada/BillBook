@@ -1,0 +1,40 @@
+{
+  "source": "/Users/syedsafiali/Documents/GitHub/SIde Projects/Drived_tracker/Roamed/Views/Badges/BadgeCollectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Earn Badges",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 7
+        }
+      },
+      {
+        "comment": "",
+        "key": "Drive safely, hit milestones, and maintain streaks to unlock these badges.",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Badges",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld Earned",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 49
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,81 @@
+{
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "key" : "How far have I ${applicationName}?",
+        "location" : {
+          "startingLine" : 6,
+          "startingColumn" : 0
+        },
+        "values" : [
+          "How far have I ${applicationName}?",
+          "What is my driving distance in ${applicationName}?",
+          "Check my distance on ${applicationName}"
+        ],
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "HowFarRoamedIntent",
+            "index" : 0,
+            "parameterTypes" : {
+
+            },
+            "parameterDisplayRepresentations" : {
+
+            },
+            "title" : "Check Driving Distance"
+          }
+        ]
+      },
+      {
+        "key" : "What is my ${applicationName} level?",
+        "location" : {
+          "startingLine" : 6,
+          "startingColumn" : 0
+        },
+        "values" : [
+          "What is my ${applicationName} level?",
+          "Check my driving level in ${applicationName}"
+        ],
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "DrivingLevelIntent",
+            "index" : 1,
+            "parameterTypes" : {
+
+            },
+            "parameterDisplayRepresentations" : {
+
+            },
+            "title" : "Check Driving Level"
+          }
+        ]
+      },
+      {
+        "key" : "What is my ${applicationName} streak?",
+        "location" : {
+          "startingLine" : 6,
+          "startingColumn" : 0
+        },
+        "values" : [
+          "What is my ${applicationName} streak?",
+          "Check my driving streak in ${applicationName}"
+        ],
+        "appShortcutMetadata" : [
+          {
+            "actionIdentifier" : "StreakIntent",
+            "index" : 2,
+            "parameterTypes" : {
+
+            },
+            "parameterDisplayRepresentations" : {
+
+            },
+            "title" : "Check Driving Streak"
+          }
+        ]
+      }
+    ]
+  },
+  "source" : "\/Users\/syedsafiali\/Documents\/GitHub\/SIde Projects\/Drived_tracker\/Roamed\/Services\/RoamedIntents.swift",
+  "version" : 2
+}
